@@ -1,0 +1,2 @@
+main : '{IO} ()
+main _ = printLine "Hello, World!"
